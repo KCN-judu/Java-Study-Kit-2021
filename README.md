@@ -2,7 +2,7 @@
 # this study kit was written by C++.
 (It's Windows only)
 # Why I create this project?
- I'm too lazy to download and install an IDE application,so that I decided to write some projects to compose a simplized 'IDE'.
+ I'm too lazy to download and install an IDE application,so that I decided to write some projects to simplize my work without any IDE application.
 # How to use?
  The Earliest Version is very very simple. 
  You should download Java SE from Oracle's website and install it.
