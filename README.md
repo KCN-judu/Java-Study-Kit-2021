@@ -14,8 +14,8 @@
         -Initializing.exe
         -JavaRun.java
       -compiler.exe 
-#  and then , you just need to run the "Initializing.exe"
-     JavaProjects
+#and then , you just need to run the "Initializing.exe"
+    JavaProjects
       -Sample
         -Initializing.exe
         -JavaRun.java
