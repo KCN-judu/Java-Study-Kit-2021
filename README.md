@@ -6,8 +6,9 @@
 # How to use?
  The Earliest Vision is very very simple. 
  You should download Java SE for Oracle's website and install it.
- Then, just download the files we provided and put it into a folder called "JavaProjects" on you desktop.
-# Be sure that the folder like this
+ Then, just download the files we provided and put it into a folder called "JavaProjects" on you desktop(if you don't have it just create one).
+ in the folder, you shuold creat another folder called "Sample".
+ # Be sure that the folders are like this
     JavaProjects
       -Sample
         -Initializing.exe
